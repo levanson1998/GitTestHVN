@@ -7,6 +7,7 @@
 
 // branch Son1
 // branch Son1 edit 1
+// edit in master
 
 #include "student.h"
 #include "main.h"
