@@ -5,10 +5,12 @@
  *            Author: sonvl.vn
  */
 
-// branch Son1
 // branch Son1 edit 1
 // edit in diff folder
 // edit in Son1 folder
+
+// new edit 2
+
 
 #include "student.h"
 #include "main.h"
