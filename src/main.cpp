@@ -27,8 +27,11 @@
 #include "student.h"
 #include "main.h"
 
+// edit in Son1
 
 int main()
+
+// edit in Son1_2
 {
     StudentVt inf_students
     {
