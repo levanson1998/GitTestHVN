@@ -8,6 +8,7 @@
 // branch Son1
 // branch Son1 edit 1
 // edit in master
+// edit in diff folder
 
 #include "student.h"
 #include "main.h"
