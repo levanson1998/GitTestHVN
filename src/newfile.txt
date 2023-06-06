@@ -1,2 +1,7 @@
+<<<<<<< .mine
 1 time
-sdf
+1 timesss
+=======
+1 time
+>>>>>>> .theirs
+1 timessssdf
