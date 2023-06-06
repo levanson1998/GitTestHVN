@@ -1,7 +1,4 @@
-<<<<<<< .mine
-1 time
-1 timesss
-=======
-1 time
->>>>>>> .theirs
-1 timessssdf
+the index: 
+1
+2
+3
